@@ -1,0 +1,33 @@
+/midi_chords/
+/wav_dataset/
+/wav_dataset_variations/
+__pycache__/
+chord_model.pkl
+model.pkl
+chord_model_20250705_224453.pkl
+*.mid
+*.wav
+*.pkl
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+/Guide
+/Sample Tests
+/venv
+# Build artifacts
+build_chroma_exe.py
+build_chroma.bat
+ChordDetectorChroma.spec
+CHROMA_DEPLOYMENT_GUIDE.md
+FILE_STRUCTURE.md
+/build
+/dist
+/full_model
+/midi_chords
+
+# Large executable files
+*.exe
+*.zip
+*.pkg
