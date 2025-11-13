@@ -300,7 +300,7 @@ Contributions are welcome! Areas for improvement:
 
 ## License
 
-[Specify your license here]
+MIT License
 
 ## Acknowledgments
 
@@ -310,5 +310,6 @@ Contributions are welcome! Areas for improvement:
 
 ## Contact
 
-[Your contact information]
+- Email: hansonq888@gmail.com
+- Website: hansonqin.com
 
